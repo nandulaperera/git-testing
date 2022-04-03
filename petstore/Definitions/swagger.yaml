@@ -405,8 +405,6 @@ paths:
               format: int32
               type: integer
             type: object
-      security:
-      - api_key: []
       summary: Returns pet inventories by status
       tags:
       - store
